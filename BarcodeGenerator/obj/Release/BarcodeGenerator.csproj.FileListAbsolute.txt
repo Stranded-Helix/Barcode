@@ -1,0 +1,9 @@
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csprojAssemblyReference.cache
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe.config
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.pdb
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Release\System.Drawing.Common.dll
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.CopyComplete
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.exe
+C:\Users\Garrett\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.pdb
