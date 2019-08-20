@@ -4,13 +4,16 @@ using System.Drawing;
 
 namespace BarcodeGenerator
 {
+    /// <summary>
+    /// Class that creates a barcode image from a string
+    /// </summary>
     class Imaging
     {
         #region Private Members
-        private byte[] _imageBuffer;
+        //list of boolean values that represent the bars in the barcode
         private bool[] binary;
+        //the height of the generated barcode
         private int _height;
-        private string name;
 
         Dictionary<string, int> DictCodeA = new Dictionary<string, int>();
         Dictionary<string, int> DictCodeB = new Dictionary<string, int>();
@@ -20,11 +23,6 @@ namespace BarcodeGenerator
         #endregion
 
         #region Constructor
-        /// <summary>
-        /// Generates a Code 128 Barcode based on the input string
-        /// </summary>
-        /// <param name="input">String to be displayed as barcode</param>
-        /// <param name="height">Height in pixels of the generated barcode</param>
         public Imaging()
         {
             // [ ] Need to find a way not to load this on every class instansce
@@ -34,9 +32,7 @@ namespace BarcodeGenerator
 
         public void GetInfo(string input, int height)
         { 
-            _imageBuffer = new byte[input.Length];
             _height = height;
-            name = input;
             var binaryString = FormatToBinary(input);
             binary = new bool[binaryString.Length];
             for (int i = 0; i < binaryString.Length; i++)
