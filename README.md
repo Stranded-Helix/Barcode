@@ -1,6 +1,24 @@
-# Barcode
-Code 128 Barcode Generator
+# Code 128 Barcode Generator
+## Generates barcode images from user input 
 
-Produces images from user input after converting into code 128 format barcode.
+## Table of Contents 
+[installation](#installation)
+ 
+[license](#license)
+ 
+[Questions](#Questions) 
 
-C#
+## Installation
+***
+Download from git and run .exe
+## License
+***
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT License
+
+
+#### Questions
+***
+Github: Stranded-Helix
+
+E-mail: Garrett.fite@gmail.com
