@@ -1,4 +1,7 @@
+## Small Console app to generate png images for code 128 fromat barcodes
+
 # Code 128 Barcode Generator
+
 ## Generates barcode images from user input 
 
 ## Table of Contents 
